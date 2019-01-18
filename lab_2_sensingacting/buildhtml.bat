@@ -1,0 +1,1 @@
+jupyter nbconvert lab_2.ipynb --to html
