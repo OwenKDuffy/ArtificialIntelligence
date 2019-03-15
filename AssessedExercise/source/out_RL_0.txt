@@ -1,0 +1,2000 @@
+e,iter,reward,done = 0 21 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 1 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 2 31 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 3 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 4 3 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 5 28 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 6 23 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 7 8 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 8 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 9 10 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 10 3 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 11 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 12 8 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 13 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 14 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 15 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 16 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 17 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 18 6 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 19 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 20 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 21 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 22 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 23 9 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 24 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 25 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 26 7 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 27 2 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 28 12 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 29 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 30 12 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 31 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 32 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 33 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 34 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 35 2 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 36 9 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 37 3 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 38 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 39 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 40 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 41 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 42 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 43 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 44 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 45 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 46 5 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 47 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 48 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 49 7 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 50 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 51 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 52 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 53 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 54 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 55 16 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 56 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 57 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 58 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 59 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 60 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 61 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 62 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 63 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 64 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 65 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 66 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 67 7 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 68 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 69 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 70 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 71 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 72 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 73 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 74 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 75 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 76 10 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 77 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 78 6 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 79 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 80 10 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 81 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 82 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 83 6 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 84 3 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 85 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 86 2 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 87 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 88 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 89 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 90 10 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 91 12 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 92 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 93 6 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 94 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 95 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 96 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 97 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 98 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 99 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 100 6 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 101 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 102 4 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 103 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 104 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 105 3 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 106 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 107 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 108 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 109 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 110 3 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 111 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 112 9 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 113 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 114 7 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 115 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 116 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 117 2 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 118 6 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 119 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 120 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 121 5 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 122 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 123 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 124 8 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 125 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 126 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 127 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 128 15 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 129 9 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 130 6 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 131 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 132 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 133 2 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 134 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 135 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 136 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 137 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 138 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 139 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 140 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 141 5 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 142 6 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 143 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 144 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 145 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 146 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 147 7 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 148 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 149 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 150 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 151 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 152 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 153 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 154 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 155 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 156 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 157 2 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 158 6 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 159 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 160 4 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 161 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 162 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 163 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 164 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 165 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 166 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 167 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 168 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 169 3 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 170 6 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 171 11 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 172 9 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 173 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 174 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 175 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 176 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 177 8 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 178 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 179 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 180 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 181 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 182 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 183 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 184 6 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 185 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 186 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 187 4 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 188 4 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 189 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 190 4 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 191 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 192 11 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 193 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 194 10 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 195 9 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 196 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 197 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 198 10 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 199 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 200 12 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 201 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 202 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 203 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 204 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 205 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 206 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 207 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 208 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 209 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 210 2 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 211 2 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 212 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 213 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 214 9 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 215 7 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 216 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 217 11 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 218 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 219 7 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 220 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 221 7 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 222 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 223 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 224 2 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 225 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 226 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 227 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 228 2 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 229 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 230 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 231 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 232 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 233 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 234 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 235 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 236 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 237 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 238 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 239 2 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 240 11 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 241 7 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 242 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 243 8 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 244 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 245 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 246 2 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 247 5 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 248 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 249 8 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 250 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 251 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 252 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 253 6 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 254 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 255 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 256 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 257 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 258 6 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 259 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 260 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 261 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 262 6 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 263 3 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 264 6 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 265 3 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 266 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 267 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 268 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 269 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 270 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 271 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 272 7 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 273 23 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 274 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 275 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 276 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 277 3 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 278 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 279 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 280 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 281 9 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 282 3 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 283 5 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 284 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 285 3 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 286 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 287 2 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 288 12 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 289 7 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 290 6 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 291 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 292 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 293 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 294 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 295 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 296 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 297 2 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 298 6 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 299 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 300 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 301 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 302 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 303 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 304 6 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 305 8 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 306 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 307 4 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 308 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 309 2 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 310 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 311 8 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 312 4 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 313 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 314 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 315 6 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 316 2 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 317 3 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 318 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 319 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 320 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 321 2 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 322 6 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 323 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 324 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 325 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 326 7 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 327 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 328 2 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 329 7 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 330 3 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 331 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 332 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 333 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 334 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 335 4 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 336 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 337 6 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 338 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 339 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 340 9 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 341 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 342 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 343 2 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 344 6 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 345 7 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 346 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 347 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 348 11 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 349 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 350 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 351 8 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 352 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 353 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 354 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 355 2 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 356 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 357 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 358 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 359 14 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 360 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 361 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 362 2 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 363 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 364 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 365 3 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 366 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 367 2 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 368 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 369 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 370 6 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 371 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 372 2 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 373 11 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 374 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 375 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 376 12 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 377 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 378 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 379 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 380 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 381 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 382 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 383 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 384 5 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 385 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 386 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 387 3 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 388 7 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 389 6 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 390 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 391 5 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 392 2 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 393 3 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 394 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 395 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 396 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 397 7 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 398 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 399 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 400 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 401 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 402 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 403 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 404 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 405 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 406 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 407 5 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 408 7 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 409 4 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 410 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 411 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 412 5 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 413 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 414 2 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 415 6 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 416 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 417 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 418 3 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 419 10 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 420 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 421 10 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 422 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 423 6 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 424 8 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 425 9 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 426 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 427 3 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 428 3 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 429 6 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 430 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 431 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 432 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 433 6 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 434 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 435 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 436 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 437 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 438 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 439 4 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 440 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 441 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 442 11 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 443 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 444 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 445 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 446 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 447 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 448 6 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 449 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 450 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 451 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 452 2 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 453 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 454 2 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 455 7 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 456 4 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 457 6 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 458 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 459 17 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 460 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 461 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 462 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 463 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 464 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 465 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 466 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 467 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 468 6 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 469 4 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 470 9 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 471 2 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 472 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 473 5 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 474 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 475 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 476 6 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 477 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 478 7 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 479 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 480 7 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 481 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 482 6 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 483 7 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 484 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 485 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 486 3 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 487 4 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 488 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 489 7 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 490 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 491 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 492 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 493 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 494 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 495 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 496 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 497 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 498 8 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 499 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 500 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 501 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 502 13 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 503 7 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 504 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 505 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 506 6 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 507 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 508 6 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 509 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 510 8 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 511 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 512 8 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 513 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 514 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 515 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 516 8 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 517 10 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 518 8 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 519 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 520 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 521 2 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 522 16 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 523 10 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 524 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 525 2 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 526 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 527 9 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 528 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 529 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 530 7 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 531 3 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 532 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 533 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 534 5 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 535 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 536 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 537 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 538 6 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 539 2 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 540 9 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 541 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 542 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 543 7 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 544 12 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 545 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 546 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 547 9 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 548 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 549 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 550 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 551 7 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 552 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 553 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 554 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 555 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 556 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 557 2 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 558 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 559 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 560 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 561 4 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 562 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 563 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 564 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 565 3 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 566 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 567 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 568 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 569 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 570 9 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 571 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 572 19 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 573 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 574 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 575 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 576 6 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 577 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 578 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 579 9 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 580 8 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 581 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 582 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 583 13 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 584 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 585 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 586 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 587 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 588 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 589 3 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 590 6 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 591 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 592 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 593 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 594 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 595 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 596 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 597 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 598 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 599 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 600 4 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 601 7 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 602 9 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 603 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 604 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 605 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 606 4 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 607 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 608 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 609 7 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 610 3 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 611 6 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 612 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 613 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 614 6 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 615 13 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 616 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 617 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 618 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 619 3 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 620 6 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 621 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 622 14 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 623 11 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 624 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 625 3 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 626 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 627 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 628 6 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 629 8 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 630 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 631 6 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 632 8 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 633 9 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 634 14 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 635 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 636 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 637 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 638 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 639 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 640 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 641 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 642 4 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 643 7 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 644 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 645 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 646 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 647 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 648 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 649 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 650 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 651 8 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 652 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 653 7 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 654 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 655 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 656 4 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 657 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 658 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 659 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 660 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 661 13 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 662 7 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 663 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 664 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 665 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 666 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 667 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 668 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 669 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 670 2 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 671 15 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 672 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 673 7 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 674 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 675 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 676 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 677 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 678 15 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 679 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 680 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 681 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 682 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 683 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 684 6 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 685 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 686 3 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 687 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 688 10 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 689 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 690 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 691 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 692 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 693 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 694 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 695 5 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 696 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 697 6 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 698 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 699 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 700 8 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 701 11 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 702 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 703 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 704 3 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 705 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 706 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 707 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 708 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 709 2 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 710 5 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 711 6 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 712 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 713 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 714 3 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 715 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 716 6 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 717 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 718 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 719 2 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 720 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 721 7 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 722 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 723 3 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 724 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 725 8 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 726 5 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 727 4 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 728 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 729 6 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 730 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 731 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 732 6 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 733 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 734 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 735 10 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 736 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 737 7 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 738 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 739 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 740 2 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 741 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 742 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 743 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 744 2 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 745 3 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 746 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 747 10 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 748 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 749 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 750 2 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 751 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 752 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 753 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 754 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 755 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 756 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 757 2 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 758 5 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 759 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 760 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 761 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 762 14 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 763 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 764 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 765 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 766 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 767 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 768 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 769 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 770 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 771 3 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 772 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 773 7 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 774 4 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 775 2 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 776 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 777 6 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 778 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 779 2 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 780 8 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 781 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 782 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 783 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 784 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 785 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 786 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 787 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 788 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 789 6 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 790 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 791 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 792 7 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 793 8 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 794 9 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 795 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 796 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 797 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 798 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 799 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 800 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 801 6 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 802 6 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 803 7 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 804 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 805 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 806 7 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 807 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 808 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 809 7 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 810 5 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 811 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 812 6 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 813 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 814 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 815 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 816 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 817 13 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 818 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 819 6 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 820 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 821 18 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 822 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 823 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 824 2 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 825 3 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 826 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 827 5 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 828 5 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 829 3 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 830 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 831 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 832 3 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 833 3 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 834 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 835 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 836 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 837 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 838 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 839 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 840 3 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 841 6 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 842 4 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 843 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 844 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 845 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 846 6 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 847 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 848 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 849 3 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 850 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 851 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 852 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 853 3 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 854 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 855 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 856 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 857 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 858 12 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 859 2 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 860 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 861 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 862 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 863 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 864 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 865 7 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 866 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 867 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 868 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 869 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 870 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 871 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 872 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 873 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 874 3 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 875 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 876 6 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 877 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 878 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 879 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 880 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 881 7 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 882 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 883 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 884 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 885 11 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 886 7 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 887 7 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 888 6 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 889 19 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 890 2 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 891 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 892 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 893 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 894 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 895 7 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 896 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 897 10 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 898 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 899 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 900 10 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 901 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 902 3 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 903 5 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 904 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 905 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 906 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 907 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 908 6 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 909 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 910 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 911 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 912 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 913 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 914 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 915 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 916 7 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 917 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 918 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 919 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 920 7 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 921 6 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 922 6 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 923 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 924 6 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 925 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 926 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 927 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 928 2 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 929 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 930 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 931 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 932 5 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 933 8 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 934 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 935 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 936 8 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 937 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 938 2 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 939 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 940 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 941 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 942 3 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 943 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 944 5 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 945 6 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 946 7 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 947 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 948 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 949 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 950 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 951 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 952 6 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 953 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 954 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 955 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 956 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 957 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 958 10 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 959 5 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 960 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 961 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 962 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 963 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 964 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 965 8 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 966 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 967 7 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 968 6 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 969 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 970 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 971 3 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 972 5 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 973 14 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 974 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 975 6 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 976 3 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 977 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 978 8 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 979 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 980 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 981 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 982 4 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 983 5 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 984 4 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 985 7 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 986 2 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 987 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 988 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 989 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 990 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 991 25 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 992 2 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 993 1 -1.0 True
+We have reached a hole :-( [we can't move so stop trying; just give up]
+e,iter,reward,done = 994 3 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 995 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 996 8 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 997 4 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 998 8 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]
+e,iter,reward,done = 999 2 1.0 True
+We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]

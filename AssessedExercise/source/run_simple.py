@@ -38,13 +38,10 @@ class Grid:
         for j in envDesc:
             x = 0
             for i in j:
-                # if(i == b'F'):
-                #     edges[x, y] = "Frozen"
                 if(i == b'S'):
                     self.start = (x, y)
                 if(i == b'H'):
                     self.holes.append((x, y))
-                    # print("h = ", (x, y))
                 if(i == b'G'):
                     self.goal = (x,y)
                 x+=1
@@ -54,7 +51,7 @@ class Grid:
 
     def inbounds(self, id):
         (x, y) = id
-        return 0 <= x <= self.width and 0 <= y <=self.height
+        return 0 <= x < self.width and 0 <= y <self.height
 
     def notBlocked(self, id):
         return id not in self.holes
@@ -69,12 +66,12 @@ class Grid:
 
     def printGrid(self):
         print(" ", end = " ")
-        for n in range(self.width):
+        for n in range(self.width - 1):
             print(n, end = " ")
         print("\n")
-        for j in range(self.height):
+        for j in range(self.height - 1):
             print(j, end = " ")
-            for i in range(self.width):
+            for i in range(self.width - 1):
                 if(i,j) in self.holes:
                     print("H", end = " ")
                 elif (i,j) == self.start:
@@ -122,22 +119,25 @@ def aStar(grid):
     a = cameFrom[grid.goal]
     b = grid.goal
     steps = []
-    grid.printGrid()
-    while not a == grid.start:
+    # grid.printGrid()
+    while not a == None:
         steps.append(stepTo(b, a))
+        # print(b)
         b = a
         a  = cameFrom[a]
 
+    # steps.append(stepTo(b, grid.start))
     steps.reverse()
-    for i in steps:
-        if(i == 0):
-            print("Left")
-        if(i == 1):
-            print("Down")
-        if (i==2):
-            print("Right")
-        if (i == 3):
-            print("Up")
+    # print(steps)
+    # for i in steps:
+    #     if(i == 0):
+    #         print("Left")
+    #     if(i == 1):
+    #         print("Down")
+    #     if (i==2):
+    #         print("Right")
+    #     if (i == 3):
+    #         print("Up")
 
     return steps
 
@@ -194,10 +194,10 @@ for e in range(1): # iterate over episodes
     observation = env.reset() # reset the state of the env to the starting state
     steps = aStar(g)
     for iter in range(max_iter_per_episode):
-      env.render() # for debugging/develeopment you may want to visualize the individual steps by uncommenting this line
+      # env.render() # for debugging/develeopment you may want to visualize the individual steps by uncommenting this line
 
       action = steps[iter]
-      print(action)
+      # print(action)
       observation, reward, done, info = env.step(action) # observe what happends when you take the action
 
       # TODO: You'll need to add code here to collect the rewards for plotting/reporting in a suitable manner
