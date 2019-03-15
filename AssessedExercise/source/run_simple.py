@@ -33,52 +33,132 @@ class PriorityQueue:
 
 class Grid:
     def __init__(self, envDesc):
-        self.edges= {}
+        self.holes = []
         y = 0
         for j in envDesc:
             x = 0
             for i in j:
-                if(i == b'F'):
-                    print(x, y)
+                # if(i == b'F'):
+                #     edges[x, y] = "Frozen"
+                if(i == b'S'):
+                    self.start = (x, y)
+                if(i == b'H'):
+                    self.holes.append((x, y))
+                    # print("h = ", (x, y))
+                if(i == b'G'):
+                    self.goal = (x,y)
                 x+=1
             y+=1
+        self.width = x
+        self.height = y
+
+    def inbounds(self, id):
+        (x, y) = id
+        return 0 <= x <= self.width and 0 <= y <=self.height
+
+    def notBlocked(self, id):
+        return id not in self.holes
+
 
     def neighbours(self, id):
-        return self.edges[id]
+        (x, y) = id
+        results = [(x, y - 1), (x+1, y), (x, y + 1), (x - 1, y)]
+        results = filter(self.inbounds, results)
+        results = filter(self.notBlocked, results)
+        return results
+
+    def printGrid(self):
+        print(" ", end = " ")
+        for n in range(self.width):
+            print(n, end = " ")
+        print("\n")
+        for j in range(self.height):
+            print(j, end = " ")
+            for i in range(self.width):
+                if(i,j) in self.holes:
+                    print("H", end = " ")
+                elif (i,j) == self.start:
+                    print("S", end = " ")
+                elif (i,j) == self.goal:
+                        print("G", end = " ")
+                else:
+                    print("F", end = " ")
+            print("\n")
+
+
+
+
 
 def heuristic(a, b):
     (x1, y1) = a
     (x2, y2) = b
     return abs(x1-x2) + abs(y1-y2)
 
-def aStar(grid, start, goal):
+def aStar(grid):
     #initialize open list
     openSet = PriorityQueue()
-    openSet.put(start, 0)
+    openSet.put(grid.start, 0)
     cameFrom = {}
     costTo = {}
-    cameFrom[start] = None
-    costTo[start] = 0
+    cameFrom[grid.start] = None
+    costTo[grid.start] = 0
 
     while not openSet.empty():
         current = openSet.get()
 
-        if current == goal:
+        if current == grid.goal:
             break
 
         for next in grid.neighbours(current):
-            newCost = costTo[current] + grid.cost(current, next)
+            newCost = costTo[current] + 1
             if next not in costTo or newCost < costTo[next]:
                 costTo[next] = newCost
-                priority = newCost + heuristic(goal, next)
+                priority = newCost + heuristic(grid.goal, next)
                 openSet.put(next, priority)
                 cameFrom[next] = current
 
-    return cameFrom, costTo
+
+
+    a = cameFrom[grid.goal]
+    b = grid.goal
+    steps = []
+    grid.printGrid()
+    while not a == grid.start:
+        steps.append(stepTo(b, a))
+        b = a
+        a  = cameFrom[a]
+
+    steps.reverse()
+    for i in steps:
+        if(i == 0):
+            print("Left")
+        if(i == 1):
+            print("Down")
+        if (i==2):
+            print("Right")
+        if (i == 3):
+            print("Up")
+
+    return steps
 
 
 
+def stepTo(to, fr):
 
+    LEFT = 0
+    DOWN = 1
+    RIGHT = 2
+    UP = 3
+    (xt, yt) = to
+    (xf, yf) = fr
+    if(yt < yf and xt == xf):
+        return UP
+    if(xt > xf and yt == yf):
+        return RIGHT
+    if(yt > yf and xt == xf):
+        return DOWN
+    if(xt < xf and yt == yf):
+        return LEFT
 
 
 
@@ -102,32 +182,35 @@ env = LochLomondEnv(problem_id=problem_id, is_stochastic=False,   reward_hole=re
 # env.render
 g = Grid(env.desc)
 
-# # Create a representation of the state space for use with AIMA A-star
-# state_space_locations, state_space_actions, state_initial_id, state_goal_id = env2statespace(env)
-#
-# # Reset the random generator to a known state (for reproducability)
-# np.random.seed(12)
-#
-# ####
-# for e in range(max_episodes): # iterate over episodes
-#     observation = env.reset() # reset the state of the env to the starting state
-#
-#     for iter in range(max_iter_per_episode):
-#       #env.render() # for debugging/develeopment you may want to visualize the individual steps by uncommenting this line
-#       action = env.action_space.sample() # your agent goes here (the current agent takes random actions)
-#       observation, reward, done, info = env.step(action) # observe what happends when you take the action
-#
-#       # TODO: You'll need to add code here to collect the rewards for plotting/reporting in a suitable manner
-#
-#       print("e,iter,reward,done =" + str(e) + " " + str(iter)+ " " + str(reward)+ " " + str(done))
-#
-#       # Check if we are done and monitor rewards etc...
-#       if(done and reward==reward_hole):
-#           env.render()
-#           print("We have reached a hole :-( [we can't move so stop trying; just give up]")
-#           break
-#
-#       if (done and reward == +1.0):
-#           env.render()
-#           print("We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]")
-#           break
+# Create a representation of the state space for use with AIMA A-star
+state_space_locations, state_space_actions, state_initial_id, state_goal_id = env2statespace(env)
+
+# print(state_goal_id)
+# Reset the random generator to a known state (for reproducability)
+np.random.seed(12)
+
+####
+for e in range(1): # iterate over episodes
+    observation = env.reset() # reset the state of the env to the starting state
+    steps = aStar(g)
+    for iter in range(max_iter_per_episode):
+      env.render() # for debugging/develeopment you may want to visualize the individual steps by uncommenting this line
+
+      action = steps[iter]
+      print(action)
+      observation, reward, done, info = env.step(action) # observe what happends when you take the action
+
+      # TODO: You'll need to add code here to collect the rewards for plotting/reporting in a suitable manner
+
+      print("e,iter,reward,done = " + str(e) + " " + str(iter)+ " " + str(reward)+ " " + str(done))
+
+      # Check if we are done and monitor rewards etc...
+      if(done and reward==reward_hole):
+          env.render()
+          print("We have reached a hole :-( [we can't move so stop trying; just give up]")
+          break
+
+      if (done and reward == +1.0):
+          env.render()
+          print("We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]")
+          break

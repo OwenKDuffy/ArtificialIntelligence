@@ -17,7 +17,7 @@ print("Working dir:"+os.getcwd())
 print("Python version:"+sys.version)
 
 # Setup the parameters for the specific problem (you can change all of these if you want to)
-problem_id = sys.argv[1]        # problem_id \in [0:7] generates 8 diffrent problems on which you can train/fine-tune your agent
+problem_id = int(sys.argv[1])        # problem_id \in [0:7] generates 8 diffrent problems on which you can train/fine-tune your agent
 reward_hole = 0.0     # should be less than or equal to 0.0 (you can fine tune this  depending on you RL agent choice)
 is_stochastic = True  # should be False for A-star (deterministic search) and True for the RL agent
 
@@ -43,6 +43,7 @@ for e in range(max_episodes): # iterate over episodes
     for iter in range(max_iter_per_episode):
       #env.render() # for debugging/develeopment you may want to visualize the individual steps by uncommenting this line
       action = env.action_space.sample() # your agent goes here (the current agent takes random actions)
+      print(action)
       observation, reward, done, info = env.step(action) # observe what happends when you take the action
 
       # TODO: You'll need to add code here to collect the rewards for plotting/reporting in a suitable manner
@@ -59,4 +60,3 @@ for e in range(max_episodes): # iterate over episodes
           env.render()
           print("We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]")
           break
-     
