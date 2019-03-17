@@ -164,53 +164,67 @@ def stepTo(to, fr):
 
 
 
+def main(p_id):
+    # Setup the parameters for the specific problem (you can change all of these if you want to)
+    problem_id = int(p_id)    # problem_id \in [0:7] generates 8 diffrent problems on which you can train/fine-tune your agent
+    reward_hole = 0.0     # should be less than or equal to 0.0 (you can fine tune this  depending on you RL agent choice)
+    is_stochastic = False  # should be False for A-star (deterministic search) and True for the RL agent
 
-# Setup the parameters for the specific problem (you can change all of these if you want to)
-problem_id = int(sys.argv[1])       # problem_id \in [0:7] generates 8 diffrent problems on which you can train/fine-tune your agent
-reward_hole = 0.0     # should be less than or equal to 0.0 (you can fine tune this  depending on you RL agent choice)
-is_stochastic = False  # should be False for A-star (deterministic search) and True for the RL agent
+    max_episodes = 2000   # you can decide you rerun the problem many times thus generating many episodes... you can learn from them all!
+    max_iter_per_episode = 500 # you decide how many iterations/actions can be executed per episode
 
-max_episodes = 2000   # you can decide you rerun the problem many times thus generating many episodes... you can learn from them all!
-max_iter_per_episode = 500 # you decide how many iterations/actions can be executed per episode
+    # Generate the specific problem
+    env = LochLomondEnv(problem_id=problem_id, is_stochastic=False,   reward_hole=reward_hole)
 
-# Generate the specific problem
-env = LochLomondEnv(problem_id=problem_id, is_stochastic=False,   reward_hole=reward_hole)
+    # Let's visualize the problem/env
+    # print("grid= \n")
+    # print(env.desc)
+    # env.render
+    g = Grid(env.desc)
 
-# Let's visualize the problem/env
-# print("grid= \n")
-# print(env.desc)
-# env.render
-g = Grid(env.desc)
+    # Create a representation of the state space for use with AIMA A-star
+    state_space_locations, state_space_actions, state_initial_id, state_goal_id = env2statespace(env)
 
-# Create a representation of the state space for use with AIMA A-star
-state_space_locations, state_space_actions, state_initial_id, state_goal_id = env2statespace(env)
+    # print(state_goal_id)
+    # Reset the random generator to a known state (for reproducability)
+    np.random.seed(12)
+    #setup vars for logfile
+    f= open("out_AStar_{}.txt".format(problem_id) ,"w+")
+    successes = 0
+    failures = 0
+    ####
+    for e in range(1): # iterate over episodes
+        observation = env.reset() # reset the state of the env to the starting state
+        steps = aStar(g)
+        for iter in range(max_iter_per_episode):
+            # env.render() # for debugging/develeopment you may want to visualize the individual steps by uncommenting this line
 
-# print(state_goal_id)
-# Reset the random generator to a known state (for reproducability)
-np.random.seed(12)
+            action = steps[iter]
+            # print(action)
+            observation, reward, done, info = env.step(action) # observe what happends when you take the action
 
-####
-for e in range(1): # iterate over episodes
-    observation = env.reset() # reset the state of the env to the starting state
-    steps = aStar(g)
-    for iter in range(max_iter_per_episode):
-      # env.render() # for debugging/develeopment you may want to visualize the individual steps by uncommenting this line
+            #         # TODO: You'll need to add code here to collect the rewards for plotting/reporting in a suitable manner
 
-      action = steps[iter]
-      # print(action)
-      observation, reward, done, info = env.step(action) # observe what happends when you take the action
+            # Check if we are done and monitor rewards etc...
+            if(done and reward==reward_hole):
+            # env.render()
+                print("Failure")
+                failures += 1
+                f.write("e,iter,reward,done = " + str(e) + " " + str(iter)+ " " + str(reward)+ " " + str(done) + "\n")
+                # f.write("We have reached a hole :-( [we can't move so stop trying; just give up]\n")
+                break
 
-      # TODO: You'll need to add code here to collect the rewards for plotting/reporting in a suitable manner
+            if (done and reward == +1.0):
+                # env.render()
+                successes += 1
+                print("Success")
+                f.write("e,iter,reward,done = " + str(e) + " " + str(iter)+ " " + str(reward)+ " " + str(done) + "\n")
+                # f.write("We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]\n")
+                break
 
-      print("e,iter,reward,done = " + str(e) + " " + str(iter)+ " " + str(reward)+ " " + str(done))
 
-      # Check if we are done and monitor rewards etc...
-      if(done and reward==reward_hole):
-          env.render()
-          print("We have reached a hole :-( [we can't move so stop trying; just give up]")
-          break
+    print("Successes: ", successes)
+    print("Failures: ", failures)
 
-      if (done and reward == +1.0):
-          env.render()
-          print("We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]")
-          break
+if __name__ == "__main__":
+    main(sys.argv[1])
