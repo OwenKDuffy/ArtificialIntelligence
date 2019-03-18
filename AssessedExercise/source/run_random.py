@@ -13,8 +13,8 @@ import time
 from uofgsocsai import LochLomondEnv # load the class defining the custom Open AI Gym problem
 import os, sys
 from helpers import *
-print("Working dir:"+os.getcwd())
-print("Python version:"+sys.version)
+# print("Working dir:"+os.getcwd())
+# print("Python version:"+sys.version)
 
 def main(p_id):
     # Setup the parameters for the specific problem (you can change all of these if you want to)
@@ -48,13 +48,13 @@ def main(p_id):
         for iter in range(max_iter_per_episode):
           #env.render() # for debugging/develeopment you may want to visualize the individual steps by uncommenting this line
           action = env.action_space.sample() # your agent goes here (the current agent takes random actions)
-          print(action)
+          # print(action)
           observation, reward, done, info = env.step(action) # observe what happends when you take the action
 
           # Check if we are done and monitor rewards etc...
           if(done and reward==reward_hole):
               # env.render()
-              print("Failure")
+              # print("Failure")
               failures += 1
               f.write("e,iter,reward,done = " + str(e) + " " + str(iter)+ " " + str(reward)+ " " + str(done) + "\n")
               # f.write("We have reached a hole :-( [we can't move so stop trying; just give up]\n")
@@ -63,16 +63,21 @@ def main(p_id):
           if (done and reward == +1.0):
               # env.render()
               successes += 1
-              print("Success")
+              # print("Success")
               f.write("e,iter,reward,done = " + str(e) + " " + str(iter)+ " " + str(reward)+ " " + str(done) + "\n")
               # f.write("We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]\n")
               break
 
 
-    print("Successes: ", successes)
-    print("Failures: ", failures)
-
-
+    f.write("Successes: " + str(successes))
+    f.write("\n")
+    f.write("Failures: " + str(failures))
+    successRate = successes / max_episodes * 100
+    dict = {"Success": successes,
+            "Failures": failures,
+            "Episodes": max_episodes,
+            "SuccessRate": successRate}
+    return dict
 
 if __name__ == "__main__":
     main(sys.argv[1])

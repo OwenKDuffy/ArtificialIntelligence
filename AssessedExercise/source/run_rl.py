@@ -11,13 +11,13 @@ import gym
 import numpy as np
 import time
 from uofgsocsai import LochLomondEnv # load the class defining the custom Open AI Gym problem
-import os, sys, pickle
+import os, sys
 from helpers import *
-print("Working dir:"+os.getcwd())
-print("Python version:"+sys.version)
+# print("Working dir:"+os.getcwd())
+# print("Python version:"+sys.version)
 
 
-def main(p_id_):
+def main(p_id):
     # Setup the parameters for the specific problem (you can change all of these if you want to)
     problem_id = int(p_id)        # problem_id \in [0:7] generates 8 diffrent problems on which you can train/fine-tune your agent
     reward_hole = -1.0     # should be less than or equal to 0.0 (you can fine tune this  depending on you RL agent choice)
@@ -29,7 +29,7 @@ def main(p_id_):
 
     #q-learning variables
     epsilon = 0.5                   # degree of randomness, I found a lower rate leads to better results in the long term
-    max_episodes = 1000             # you can decide you rerun the problem many times thus generating many episodes... you can learn from them all!
+    max_episodes = 2000             # you can decide you rerun the problem many times thus generating many episodes... you can learn from them all!
     max_iter_per_episode = 500      # you decide how many iterations/actions can be executed per episode
 
     lr_rate = 0.81
@@ -75,7 +75,7 @@ def main(p_id_):
             # Check if we are done and monitor rewards etc...
             if(done and reward==reward_hole):
                 # env.render()
-                print("Failure")
+                # print("Failure")
                 failures += 1
                 f.write("e,iter,reward,done = " + str(e) + " " + str(iter)+ " " + str(reward)+ " " + str(done) + "\n")
                 # f.write("We have reached a hole :-( [we can't move so stop trying; just give up]\n")
@@ -84,18 +84,21 @@ def main(p_id_):
             if (done and reward == +1.0):
                 # env.render()
                 successes += 1
-                print("Success")
+                # print("Success")
                 f.write("e,iter,reward,done = " + str(e) + " " + str(iter)+ " " + str(reward)+ " " + str(done) + "\n")
                 # f.write("We have reached the goal :-) [stop trying to move; we can't]. That's ok we have achived the goal]\n")
                 break
 
 
-    print("Successes: ", successes)
-    print("Failures: ", failures)
-    # print(Q)
-    # fq= open("out_RL_{}_QTable.txt".format(problem_id) ,"w+")
-    # fq.write(Q)
-    # with open("frozenLake_qTable.pkl", 'wb') as f:
-    #     pickle.dump(Q, f)
+    f.write("Successes: " + str(successes))
+    f.write("\n")
+    f.write("Failures: " + str(failures))
+    successRate = successes / max_episodes * 100
+    dict = {"Success": successes,
+            "Failures": failures,
+            "Episodes": max_episodes,
+            "SuccessRate": successRate}
+    return dict
+
 if __name__ == "__main__":
     main(sys.argv[1])

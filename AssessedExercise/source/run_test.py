@@ -1,3 +1,33 @@
+# # for id in range(0, 8):
+# #     simpleDict.append(run_simple.main(id))
+# #
+# # simpSuc = 0
+# # simpFail = 0
+# # simpPc = 0
+# # simpRuns = 0
+# # for s in simpleDict:
+# #     simpSuc += s.get("Success", "none")
+# #     simpFail += s.get("Failures", "none")
+# #     simpRuns += s.get("Episodes", "none")
+# #     simpPc += s.get("SuccessRate", "none")
+# # simpPc /= 8
+# #
+# # print("Successes for simple agent: ", simpSuc)
+# # print("Failures by simple agent: ", simpFail)
+# # print("Number of attempts: ", simpRuns)
+# # print("Rate of success for simple agent: ", simpPc, "%")
+# import run_simple
+# import os
+#
+#
+# print(0, ": ", run_simple.main(0))
+# print(1, ": ", run_simple.main(1))
+# print(2, ": ", run_simple.main(2))
+# print(3, ": ", run_simple.main(3))
+# print(4, ": ", run_simple.main(4))
+# print(5, ": ", run_simple.main(5))
+# print(6, ": ", run_simple.main(6))
+# print(7, ": ", run_simple.main(7))
 """
   University of Glasgow
   Artificial Intelligence 2018-2019
@@ -91,17 +121,17 @@ def heuristic(a, b):
     (x2, y2) = b
     return abs(x1-x2) + abs(y1-y2)
 
-def aStar(grid):
+class aStar(grid):
     #initialize open list
-    openSet = PriorityQueue()
-    openSet.put(grid.start, 0)
-    cameFrom = {}
-    costTo = {}
-    cameFrom[grid.start] = None
-    costTo[grid.start] = 0
+    def __init__():
+        openSet = PriorityQueue()
+        openSet.put(grid.start, 0)
+        cameFrom = {}
+        costTo = {}
+        cameFrom[grid.start] = None
+        costTo[grid.start] = 0
 
-    while not openSet.empty():
-        current = openSet.get()
+    def nextStep(self, current)
 
         if current == grid.goal:
             break
@@ -114,32 +144,34 @@ def aStar(grid):
                 openSet.put(next, priority)
                 cameFrom[next] = current
 
+        while not openSet.empty():
+            return openSet.get()
 
 
-    a = cameFrom[grid.goal]
-    b = grid.goal
-    steps = []
-    # grid.printGrid()
-    while not a == None:
-        steps.append(stepTo(b, a))
-        # print(b)
-        b = a
-        a  = cameFrom[a]
+        a = cameFrom[grid.goal]
+        b = grid.goal
+        steps = []
+        # grid.printGrid()
+        while not a == None:
+            steps.append(stepTo(b, a))
+            # print(b)
+            b = a
+            a  = cameFrom[a]
 
-    # steps.append(stepTo(b, grid.start))
-    steps.reverse()
-    # print(steps)
-    # for i in steps:
-    #     if(i == 0):
-    #         print("Left")
-    #     if(i == 1):
-    #         print("Down")
-    #     if (i==2):
-    #         print("Right")
-    #     if (i == 3):
-    #         print("Up")
+        # steps.append(stepTo(b, grid.start))
+        steps.reverse()
+        # print(steps)
+        # for i in steps:
+        #     if(i == 0):
+        #         print("Left")
+        #     if(i == 1):
+        #         print("Down")
+        #     if (i==2):
+        #         print("Right")
+        #     if (i == 3):
+        #         print("Up")
 
-    return steps
+        return steps
 
 
 
